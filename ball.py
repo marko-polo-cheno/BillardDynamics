@@ -9,7 +9,6 @@ image = Image.new("RGB", (width, height))
 draw = ImageDraw.Draw(image)
 
 # Init
-maxSteps = 25000
 x_pos_store = []
 y_pos_store = []
 radius_store = []
