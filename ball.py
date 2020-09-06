@@ -101,7 +101,7 @@ for i in range(10000):
             vy = math.sin(angle_reflected)
             vx = math.cos(angle_reflected)
 
-            # Change dymanic
+            # Change direction
             xnew = x
             ynew = y
 
